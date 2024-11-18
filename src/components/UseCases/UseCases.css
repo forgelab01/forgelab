@@ -1,0 +1,29 @@
+.use-cases {
+    padding: 50px 20px;
+    background-color: #1a1a1a;
+    color: #e0f7fa;
+    text-align: center;
+}
+
+.parallax-container {
+    display: flex;
+    flex-direction: row; /* Changed from column to row */
+    gap: 20px; /* Reduced gap for better alignment in a row */
+    justify-content: center; /* Centers the items horizontally */
+    flex-wrap: wrap; /* Allows wrapping to the next line if needed (responsive) */
+}
+
+.parallax-item {
+    background: rgba(20, 20, 20, 0.9);
+    padding: 30px;
+    border-radius: 15px;
+    transition: transform 0.3s;
+    text-align: center;
+    flex: 1 1 200px; /* Adjusts size and ensures responsive layout */
+    max-width: 450px; /* Sets a max width for better spacing */
+}
+
+.parallax-item:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 0 20px #00e5ff;
+}

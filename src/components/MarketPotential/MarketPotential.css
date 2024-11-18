@@ -1,0 +1,115 @@
+/* MarketPotential.css */
+.market-potential {
+    padding: 80px 40px;
+    background-color: #121212;
+    color: #e0f7fa;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+}
+
+.market-potential h2 {
+    font-size: 3rem;
+    margin-bottom: 50px;
+    color: #00e5ff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+/* Adjusted Booming Industry Section */
+.booming-industry {
+    margin-bottom: 60px;
+    max-width: 1000px; /* Increased width for more spacious layout */
+    margin: 0 auto 60px auto;
+    text-align: center; /* Changed to center alignment for better readability */
+    padding: 20px; /* Added padding for breathing space */
+    line-height: 1.8; /* Improved line spacing for readability */
+}
+
+.booming-industry h3 {
+    font-size: 2.4rem;
+    color: #00e5ff;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.booming-industry p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    color: #e0f7fa;
+    text-align: justify; /* Justified alignment for a cleaner layout */
+}
+
+.booming-industry .highlight {
+    color: #00e5ff;
+    font-weight: bold;
+}
+
+
+/* Key Metrics Section */
+.key-metrics {
+    margin-top: 40px;
+}
+
+.key-metrics h3 {
+    font-size: 2.4rem;
+    margin-bottom: 40px;
+    color: #00e5ff;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.metrics-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 30px;
+    justify-content: center;
+}
+
+.metric-card {
+    background: linear-gradient(135deg, #1f1f1f, #2a2a2a);
+    border-radius: 15px;
+    padding: 40px 20px;
+    text-align: center;
+    box-shadow: 0 0 20px rgba(0, 229, 255, 0.3);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.metric-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 0 40px rgba(0, 229, 255, 0.6);
+}
+
+.metric-card .stat {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #00e5ff;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.metric-card p {
+    font-size: 1.2rem;
+    color: #e0f7fa;
+    line-height: 1.6;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .market-potential h2 {
+        font-size: 2.5rem;
+    }
+
+    .booming-industry h3,
+    .key-metrics h3 {
+        font-size: 2rem;
+    }
+
+    .booming-industry p,
+    .metric-card p {
+        font-size: 1rem;
+    }
+
+    .metric-card .stat {
+        font-size: 2.5rem;
+    }
+}
