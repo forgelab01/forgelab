@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/forgelab/static/css/main.b75711e3.css",
-    "main.js": "/forgelab/static/js/main.16afa4cf.js",
-    "static/js/453.6bfa50c6.chunk.js": "/forgelab/static/js/453.6bfa50c6.chunk.js",
-    "static/media/image.png": "/forgelab/static/media/image.eafd35a7bc5ad3f9df40.png",
-    "index.html": "/forgelab/index.html",
-    "main.b75711e3.css.map": "/forgelab/static/css/main.b75711e3.css.map",
-    "main.16afa4cf.js.map": "/forgelab/static/js/main.16afa4cf.js.map",
-    "453.6bfa50c6.chunk.js.map": "/forgelab/static/js/453.6bfa50c6.chunk.js.map"
+    "main.css": "/www.forgelab01.github.io/forgelab/static/css/main.cf14ebcf.css",
+    "main.js": "/www.forgelab01.github.io/forgelab/static/js/main.6899f7dd.js",
+    "static/js/453.6bfa50c6.chunk.js": "/www.forgelab01.github.io/forgelab/static/js/453.6bfa50c6.chunk.js",
+    "static/media/background-image.png": "/www.forgelab01.github.io/forgelab/static/media/background-image.eafd35a7bc5ad3f9df40.png",
+    "index.html": "/www.forgelab01.github.io/forgelab/index.html",
+    "main.cf14ebcf.css.map": "/www.forgelab01.github.io/forgelab/static/css/main.cf14ebcf.css.map",
+    "main.6899f7dd.js.map": "/www.forgelab01.github.io/forgelab/static/js/main.6899f7dd.js.map",
+    "453.6bfa50c6.chunk.js.map": "/www.forgelab01.github.io/forgelab/static/js/453.6bfa50c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b75711e3.css",
-    "static/js/main.16afa4cf.js"
+    "static/css/main.cf14ebcf.css",
+    "static/js/main.6899f7dd.js"
   ]
 }
