@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/forgelab/static/css/main.a6097a49.css",
-    "main.js": "/forgelab/static/js/main.4c13b007.js",
+    "main.js": "/forgelab/static/js/main.03219fbb.js",
     "static/js/453.6bfa50c6.chunk.js": "/forgelab/static/js/453.6bfa50c6.chunk.js",
     "static/media/background-image.png": "/forgelab/static/media/background-image.eafd35a7bc5ad3f9df40.png",
     "index.html": "/forgelab/index.html",
     "main.a6097a49.css.map": "/forgelab/static/css/main.a6097a49.css.map",
-    "main.4c13b007.js.map": "/forgelab/static/js/main.4c13b007.js.map",
+    "main.03219fbb.js.map": "/forgelab/static/js/main.03219fbb.js.map",
     "453.6bfa50c6.chunk.js.map": "/forgelab/static/js/453.6bfa50c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6097a49.css",
-    "static/js/main.4c13b007.js"
+    "static/js/main.03219fbb.js"
   ]
 }
